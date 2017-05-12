@@ -1,5 +1,5 @@
 {
-  "name": "node-weixin-pay",
+  "name": "tiny-weixin-pay",
   "version": "1.2.0",
   "description": "weixin payment",
   "main": "index.js",
