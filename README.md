@@ -1,18 +1,16 @@
 # weixin-pay
 微信支付 for node.js
 
-[![npm version](https://badge.fury.io/js/weixin-pay.svg)](http://badge.fury.io/js/weixin-pay)
-
 ## Installation
 ```
-npm install weixin-pay
+npm install tiny-weixin-pay
 ```
 
 ## Usage
 
 创建统一支付订单
 ```js
-var WXPay = require('weixin-pay');
+var WXPay = require('tiny-weixin-pay');
 
 var wxpay = WXPay({
 	appid: 'xxxxxxxx',
