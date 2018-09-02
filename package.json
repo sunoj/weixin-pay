@@ -1,6 +1,6 @@
 {
   "name": "tiny-weixin-pay",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "description": "weixin payment",
   "main": "index.js",
   "directories": {
